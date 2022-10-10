@@ -26,7 +26,7 @@ body{
 
 .block-main{
     text-align: center;
-    margin: 100px;
+    margin: 70px;
 }
 
 .item-list{
@@ -37,13 +37,13 @@ body{
 
 .item-list b{
     display: block;
-    font-size: 24px;
-    font-weight: normal;
-    margin: 20px o 30px;
+    font-size: 40px;
+    font-weight: lighter;
+    margin: 30px 10px 30px;
 }
 
 .item-list p{
-    font-size: 16px;
+    font-size: 20px;
     line-height: normal;
     text-align: left;
 }
